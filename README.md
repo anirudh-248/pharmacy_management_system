@@ -10,9 +10,6 @@
 - It would improve the accuracy and enhance safety and efficiency in the pharmaceutical store.
 - This system will help the pharmacist maintain the records of the medicines, handle user and admin details, and check and renew the validity of the medicines and orders placed by the customer.
 
-## ER DIAGRAM
-<img src="https://github.com/Aditimittal2809/Pharmacy_Management_System/blob/main/images/dbms-4.jpeg" width=700><br>
-
 ## OUTPUT
 <img src="https://github.com/Aditimittal2809/Pharmacy_Management_System/blob/main/images/dbms-1.jpeg" width=700><br>
 <br><img src="https://github.com/Aditimittal2809/Pharmacy_Management_System/blob/main/images/dbms-2.jpeg" width=700><br>
